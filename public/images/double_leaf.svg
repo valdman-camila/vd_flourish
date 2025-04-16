@@ -1,0 +1,6 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 50 Q50 0 20 30 Q-10 60 40 90 Q90 120 100 50" 
+        fill="rgb(70, 126, 2)" stroke-width="3"/>
+  <path d="M100 50 Q150 0 180 30 Q210 60 160 90 Q110 120 100 50" 
+        fill="rgb(70, 126, 2)" stroke-width="3"/>
+</svg>
